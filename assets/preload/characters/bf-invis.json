@@ -200,7 +200,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/bf-invis",
 	"position": [
 		0,
 		350
@@ -208,7 +208,7 @@
 	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		217, 166, 78
+           217, 166, 78
 	],
 	"camera_position": [
 		0,
